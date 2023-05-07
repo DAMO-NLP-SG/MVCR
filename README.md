@@ -36,3 +36,16 @@ bash aebert.sh bert-base-uncased DATA_SEED NUM_SAMPLES TASK NUM_DIM_SET DIM_SET 
 ```
 bash panx.sh
 ```
+
+## Citation
+If you find this code useful, please cite our paper:
+```
+@misc{liu2022robust,
+      title={Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations}, 
+      author={Linlin Liu and Xingxuan Li and Megh Thakkar and Xin Li and Lidong Bing and Shafiq Joty and Luo Si},
+      year={2022},
+      eprint={2211.08794},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
